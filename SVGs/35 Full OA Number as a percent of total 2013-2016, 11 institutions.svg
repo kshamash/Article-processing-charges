@@ -852,7 +852,7 @@ Q 51.46875 29.203125 51.46875 23.640625
     </g>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pcaa81c564d)" d="M 50.5575 394.798146 
+    <path clip-path="url(#p4ae89124ec)" d="M 50.5575 394.798146 
 L 125.8875 394.798146 
 L 125.8875 101.27852 
 L 50.5575 101.27852 
@@ -860,7 +860,7 @@ z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pcaa81c564d)" d="M 176.1075 394.798146 
+    <path clip-path="url(#p4ae89124ec)" d="M 176.1075 394.798146 
 L 251.4375 394.798146 
 L 251.4375 164.506731 
 L 176.1075 164.506731 
@@ -868,7 +868,7 @@ z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pcaa81c564d)" d="M 301.6575 394.798146 
+    <path clip-path="url(#p4ae89124ec)" d="M 301.6575 394.798146 
 L 376.9875 394.798146 
 L 376.9875 24.071275 
 L 301.6575 24.071275 
@@ -876,10 +876,10 @@ z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pcaa81c564d)" d="M 427.2075 394.798146 
+    <path clip-path="url(#p4ae89124ec)" d="M 427.2075 394.798146 
 L 502.5375 394.798146 
-L 502.5375 37.347392 
-L 427.2075 37.347392 
+L 502.5375 37.060513 
+L 427.2075 37.060513 
 z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
@@ -993,7 +993,7 @@ z
    </g>
    <g id="text_10">
     <!-- 33% -->
-    <g style="fill:#b71a8b;" transform="translate(452.8959375 30.3745546062)scale(0.14 -0.14)">
+    <g style="fill:#b71a8b;" transform="translate(452.8959375 30.0876759913)scale(0.14 -0.14)">
      <use xlink:href="#Corbel-33"/>
      <use x="45.3125" xlink:href="#Corbel-33"/>
      <use x="90.625" xlink:href="#Corbel-25"/>
@@ -1002,7 +1002,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pcaa81c564d">
+  <clipPath id="p4ae89124ec">
    <rect height="379.44" width="502.2" x="25.4475" y="15.358146274"/>
   </clipPath>
  </defs>

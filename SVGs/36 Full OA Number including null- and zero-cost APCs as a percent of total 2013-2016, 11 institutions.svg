@@ -1119,7 +1119,7 @@ Q 51.46875 29.203125 51.46875 23.640625
     </g>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p260c50601a)" d="M 50.728125 397.295 
+    <path clip-path="url(#pa41a6f8fb4)" d="M 50.728125 397.295 
 L 126.058125 397.295 
 L 126.058125 102.698727 
 L 50.728125 102.698727 
@@ -1127,7 +1127,7 @@ z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p260c50601a)" d="M 176.278125 397.295 
+    <path clip-path="url(#pa41a6f8fb4)" d="M 176.278125 397.295 
 L 251.608125 397.295 
 L 251.608125 178.540283 
 L 176.278125 178.540283 
@@ -1135,7 +1135,7 @@ z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p260c50601a)" d="M 301.828125 397.295 
+    <path clip-path="url(#pa41a6f8fb4)" d="M 301.828125 397.295 
 L 377.158125 397.295 
 L 377.158125 41.917049 
 L 301.828125 41.917049 
@@ -1143,10 +1143,10 @@ z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p260c50601a)" d="M 427.378125 397.295 
+    <path clip-path="url(#pa41a6f8fb4)" d="M 427.378125 397.295 
 L 502.708125 397.295 
-L 502.708125 47.565986 
-L 427.378125 47.565986 
+L 502.708125 47.109421 
+L 427.378125 47.109421 
 z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
@@ -1260,7 +1260,7 @@ z
    </g>
    <g id="text_10">
     <!-- 32% -->
-    <g style="fill:#b71a8b;" transform="translate(452.66296875 40.5931488731)scale(0.14 -0.14)">
+    <g style="fill:#b71a8b;" transform="translate(452.66296875 40.1365835811)scale(0.14 -0.14)">
      <use xlink:href="#Corbel-33"/>
      <use x="45.3125" xlink:href="#Corbel-32"/>
      <use x="96.38671875" xlink:href="#Corbel-25"/>
@@ -1269,7 +1269,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p260c50601a">
+  <clipPath id="pa41a6f8fb4">
    <rect height="379.44" width="502.2" x="25.618125" y="17.855"/>
   </clipPath>
  </defs>
