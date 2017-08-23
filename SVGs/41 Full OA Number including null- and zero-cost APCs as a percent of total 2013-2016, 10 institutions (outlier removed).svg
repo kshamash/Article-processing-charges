@@ -1119,15 +1119,15 @@ Q 51.46875 29.203125 51.46875 23.640625
     </g>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pe6d1657bc1)" d="M 50.728125 397.295 
+    <path clip-path="url(#p1ebb2f46ba)" d="M 50.728125 397.295 
 L 126.058125 397.295 
-L 126.058125 135.907761 
-L 50.728125 135.907761 
+L 126.058125 127.337688 
+L 50.728125 127.337688 
 z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pe6d1657bc1)" d="M 176.278125 397.295 
+    <path clip-path="url(#p1ebb2f46ba)" d="M 176.278125 397.295 
 L 251.608125 397.295 
 L 251.608125 129.044174 
 L 176.278125 129.044174 
@@ -1135,7 +1135,7 @@ z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pe6d1657bc1)" d="M 301.828125 397.295 
+    <path clip-path="url(#p1ebb2f46ba)" d="M 301.828125 397.295 
 L 377.158125 397.295 
 L 377.158125 73.760334 
 L 301.828125 73.760334 
@@ -1143,7 +1143,7 @@ z
 " style="fill:#b71a8b;stroke:#ffffff;stroke-linejoin:miter;stroke-width:3.0;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pe6d1657bc1)" d="M 427.378125 397.295 
+    <path clip-path="url(#p1ebb2f46ba)" d="M 427.378125 397.295 
 L 502.708125 397.295 
 L 502.708125 68.561401 
 L 427.378125 68.561401 
@@ -1166,7 +1166,7 @@ L 25.618125 17.855
 " style="fill:none;"/>
    </g>
    <g id="text_7">
-    <!-- 24% -->
+    <!-- 25% -->
     <defs>
      <path d="M 63.75 41.546875 
 Q 66.828125 41.546875 69.390625 40.25 
@@ -1227,10 +1227,10 @@ Q 9.859375 37.59375 11.609375 33.8125
 Q 13.375 30.03125 16.75 30.03125 
 " id="Corbel-25"/>
     </defs>
-    <g style="fill:#b71a8b;" transform="translate(75.56890625 128.934923652)scale(0.14 -0.14)">
+    <g style="fill:#b71a8b;" transform="translate(75.82484375 120.364850247)scale(0.14 -0.14)">
      <use xlink:href="#Corbel-32"/>
-     <use x="51.07421875" xlink:href="#Corbel-34"/>
-     <use x="102.734375" xlink:href="#Corbel-25"/>
+     <use x="51.07421875" xlink:href="#Corbel-35"/>
+     <use x="99.072265625" xlink:href="#Corbel-25"/>
     </g>
    </g>
    <g id="text_8">
@@ -1260,7 +1260,7 @@ Q 13.375 30.03125 16.75 30.03125
   </g>
  </g>
  <defs>
-  <clipPath id="pe6d1657bc1">
+  <clipPath id="p1ebb2f46ba">
    <rect height="379.44" width="502.2" x="25.618125" y="17.855"/>
   </clipPath>
  </defs>
